@@ -1,0 +1,132 @@
+[
+  {
+    "title": "The Brilliance App",
+    "image": {
+      "alt": "Brilliance"
+    },
+    "summary": "A Custom CRM/Events Management Solution",
+    "link": "https://brilliance-ep.herokuapp.com",
+    "github": "http://github.com/steve-rodri/brilliance-app",
+    "description": "This is a custom app that was built for a specific purpose. Its an all around management and analytics app for a small lighting production company I used to work for.",
+    "technologies": ["React", "Redux", "Ruby on Rails", "Heroku"]
+  },
+  {
+    "title": "The Burn App by Cara Loren",
+    "image": {
+      "alt": "The Burn App"
+    },
+    "summary": "A Social Media Influencer Fitness App",
+    "link": "https://getburnapp.com",
+    "description": "A mobile app built for Fitness influencer Cara Loren. This project took around 1.5 years to launch. It uses Firebase Authentication together with a custom built Strapi Backend to handle content. At the time there were no tools like NativeBase where you could write styles using utility props like popular Design frameworks such as Chakra UI or Tailwind CSS, so I baked in my own custom design framework.",
+    "technologies": [
+      "React Native",
+      "Formik",
+      "Strapi",
+      "Firebase",
+      "Revenue Cat",
+      "Notifee",
+      "Sentry",
+      "Intercom",
+      "Styled Components",
+      "React-Spring"
+    ]
+  },
+  {
+    "title": "Crypto Rankings",
+    "image": {
+      "alt": "Crypto Rankings"
+    },
+    "summary": "A site that ranks crypto currencies by market capitalization",
+    "link": "http://crypto-rankings.surge.sh/",
+    "github": "https://github.com/steve-rodri/vs-assignments/tree/master/level-4/crypto-rankings",
+    "description": "This site utilizes the nomics API to display information about cryptocurrencies. You can view a list of crypto currencies on the rankings page, keep a list of favorites by tapping on the star icon next to the coin, as well as get some detailed information about a coin by clicking on one of them.",
+    "technologies": ["React"]
+  },
+  {
+    "title": "Food Log",
+    "image": {
+      "alt": "Food Log"
+    },
+    "summary": "An app to track your food intake",
+    "link": "http://food-log-321e.surge.sh/",
+    "github": "http://github.com/steverodri91/sus-mon-food-log",
+    "description": "This is a Nutrition tracker. You can log your food intake using the on board nutritionix api natural language query.",
+    "technologies": ["React", "React Native", "Redux", "Firebase", "Lerna", "Yarn"]
+  },
+  {
+    "title": "Get Busy",
+    "image": {
+      "alt": "Get Busy"
+    },
+    "summary": "A Social Networking app for finding and attending Events",
+    "link": "http://event-planner-app.surge.sh/",
+    "github": "http://github.com/steve-rodri/event-planner-app",
+    "description": "Similar to the concept of eventbrite, meetup, etc.., the app connects users with events. This was a group project.",
+    "technologies": ["React", "Sequelize", "Express"]
+  },
+  {
+    "title": "NJ Forward",
+    "image": {
+      "alt": "NJ Forward"
+    },
+    "summary": "The Governor of New Jersey's Inaugural Ball Registration",
+    "link": "https://njforward.org",
+    "github": "https://github.com/steve-rodri/inaugural-ball",
+    "description": "A website built for the Governor of NJ to take registration information and payment to attending the ball. I utilized the Jotform API to take registration information and Authorize.net for the Payment gateway.",
+    "technologies": [
+      "React",
+      "Chakra-UI",
+      "JotForm",
+      "Authorize.net",
+      "Formik",
+      "CloudFlare",
+      "Vercel"
+    ]
+  },
+  {
+    "title": "Reversi",
+    "image": {
+      "alt": "Reversi"
+    },
+    "summary": "A strategy board game, played on an 8\u00d78 uncheckered board.",
+    "link": "http://othello-game.surge.sh/",
+    "github": "http://github.com/steve-rodri/othello",
+    "description": "This is a 1-2 player board game. There are sixty-four identical game pieces called discs, which are light on one side and dark on the other. Players take turns placing discs on the board with their assigned color facing up.",
+    "technologies": ["HTML-CSS-JS", "React"]
+  },
+  {
+    "title": "Rock The Vote",
+    "image": {
+      "alt": "Rock The Vote"
+    },
+    "summary": "This is a Reddit clone",
+    "link": "https://rock-the-vote.vercel.app",
+    "github": "https://github.com/steve-rodri/vs-assignments/tree/master/level-6/rock-the-vote",
+    "description": "If you're familiar with how reddit works you'll know that you can upvote or downvote posts. It's the same idea with this app. You'll be able to login and get a list of \"political issues\" to upvote or downvote. You can also create your own issues, and add comments to your own issues as well as any others.",
+    "technologies": [
+      "React",
+      "Chakra-UI",
+      "Formik",
+      "Express",
+      "Mongoose",
+      "MongoDB",
+      "Lerna",
+      "Faker",
+      "Heroku",
+      "Surge",
+      "CloudFlare"
+    ]
+  },
+  {
+    "title": "Zen Garden",
+    "image": {
+      "alt": "CSS Zen Garden"
+    },
+    "summary": "This is a clone of the csszengarden.com home page",
+    "link": "http://css-zen-garden.surge.sh",
+    "github": "https://github.com/steve-rodri/vs-assignments/tree/master/level-2/css-zen-garden",
+    "description": "This is a page I built to demonstrate my skills with HTML and CSS. The page is fully responsive",
+    "technologies": ["HTML-CSS-JS"]
+  }
+]
+
