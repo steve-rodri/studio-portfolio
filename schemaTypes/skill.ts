@@ -22,6 +22,14 @@ export default defineType({
       name: 'category',
       title: 'Category',
       type: 'string',
+      options: {
+        list: [
+          {title: 'Languages & Frameworks', value: 'languages-frameworks'},
+          {title: 'Tools & Libraries', value: 'tools-libraries'},
+          {title: 'Platforms & Services', value: 'platforms-services'},
+          {title: 'Infrastructure & Hosting', value: 'infrastructure-hosting'},
+        ],
+      },
     }),
   ],
 })
