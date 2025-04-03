@@ -34,7 +34,7 @@ export default defineType({
       name: 'technologies',
       title: 'Technologies Used',
       type: 'array',
-      of: [{type: 'string'}],
+      of: [{type: 'reference', to: [{type: 'skill'}]}],
     }),
     defineField({
       name: 'link',
