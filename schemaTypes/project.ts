@@ -20,6 +20,11 @@ export default defineType({
       },
     }),
     defineField({
+      name: 'summary',
+      title: 'Summary',
+      type: 'string',
+    }),
+    defineField({
       name: 'description',
       title: 'Description',
       type: 'array',
